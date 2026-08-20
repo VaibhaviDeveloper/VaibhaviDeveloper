@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Vaibhavi 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vaibhavi-nayak-b4205b250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:nayakvaibhavi.nvk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 💻 Full-stack developer with a growing focus on **Machine Learning**
 - 🧠 Exploring **Supervised** and **Unsupervised Learning** models
 - 🌱 Always learning something new in AI/ML and modern web development
-- 📫 Reach me at: **YOUR-EMAIL@example.com**
+- 📫 Reach me at: **nayakvaibhavi.nvk@gmail.com**
 
 ---
 
@@ -48,12 +48,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default" alt="Vaibhavi's GitHub stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME" alt="Vaibhavi's GitHub streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=VaibhaviDeveloper&show_icons=true&theme=default" alt="Vaibhavi's GitHub stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhaviDeveloper" alt="Vaibhavi's GitHub streak" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhaviDeveloper&layout=compact" alt="Top Languages">
 </p>
 
 ---
